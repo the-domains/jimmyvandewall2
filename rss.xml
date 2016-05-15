@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[jimmyvandewall2]]></title>
         <description><![CDATA[jimmyvandewall2]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jimmyvandewall2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 11:53:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 15 May 2016 11:53:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jimmyvandewall2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tumut, Easter 2016]]></title>
+            <description><![CDATA[<article><h1>Tumut, Easter 2016</h1><p>Tumut at night.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0daf005-745a-47b6-a012-229bfdca5204.jpg"></article>]]></description>
+            <link>https://flic.kr/p/G5Uv1E</link>
+            <guid isPermaLink="false">44d03040-9aa6-4314-90b0-ac0512bcf4e6</guid>
+            <pubDate>Sun, 15 May 2016 11:52:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[bob]]></title>
             <description><![CDATA[<article><h1>bob</h1><p>pwpwpwpwpwpwpwpwpwpwpwpwpwpwpwppppppppppppppppppppppppppppppppppppppppppppp</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffebb40a-31fb-42a7-96cf-492b79f8c78a.jpg"></article>]]></description>
-            <link>undefinedbob/index.html</link>
+            <link>https://thegrid.ai/jimmyvandewall2/bob/index.html</link>
             <guid isPermaLink="false">fa72ba29-76fd-4300-bbf3-b818b553e0a5</guid>
             <pubDate>Sun, 15 May 2016 11:52:53 GMT</pubDate>
         </item>
