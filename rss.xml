@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[jimmyvandewall2]]></title>
+        <description><![CDATA[jimmyvandewall2]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 May 2016 11:53:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[bob]]></title>
+            <description><![CDATA[<article><h1>bob</h1><p>pwpwpwpwpwpwpwpwpwpwpwpwpwpwpwppppppppppppppppppppppppppppppppppppppppppppp</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffebb40a-31fb-42a7-96cf-492b79f8c78a.jpg"></article>]]></description>
+            <link>undefinedbob/index.html</link>
+            <guid isPermaLink="false">fa72ba29-76fd-4300-bbf3-b818b553e0a5</guid>
+            <pubDate>Sun, 15 May 2016 11:52:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
