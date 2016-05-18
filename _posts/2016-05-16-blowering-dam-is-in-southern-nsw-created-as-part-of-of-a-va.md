@@ -5,19 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Landscapes
-datePublished: '2016-05-16T14:18:20.058Z'
-dateModified: '2016-05-16T14:17:35.021Z'
+datePublished: '2016-05-18T12:26:14.176Z'
+dateModified: '2016-05-18T12:17:44.463Z'
 title: ''
 author:
   - name: Jimmy van de Wall
     url: ''
 sourcePath: _posts/2016-05-16-blowering-dam-is-in-southern-nsw-created-as-part-of-of-a-va.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: blowering-dam-is-in-southern-nsw-created-as-part-of-of-a-va/index.html
 _type: Article
