@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Portraits
-datePublished: '2016-05-18T13:04:32.163Z'
-dateModified: '2016-05-18T12:58:44.017Z'
+datePublished: '2016-05-18T13:53:55.138Z'
+dateModified: '2016-05-18T13:30:56.785Z'
 title: ''
 author:
   - name: Jimmy van de Wall
@@ -14,7 +14,7 @@ author:
 sourcePath: _posts/2016-05-16-this-is-bob-say-hi-to-bob-bobs-had-around-12-cans-of-full.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: this-is-bob-say-hi-to-bob-bobs-had-around-12-cans-of-full/index.html
 _type: Article
 
