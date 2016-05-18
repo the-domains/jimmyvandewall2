@@ -1,6 +1,6 @@
 name: jimmyvandewall2
 favicon: null
-layout_spectrum: 0.4229391
+layout_spectrum: 0.85347
 typography_spectrum: 0.25484
 collections:
   - index:
@@ -33,8 +33,8 @@ color:
     - '#5a5a5a'
     - '#c8c8c8'
     - '#fdfdfd'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 0.3125
+  lightness: 0.8125
+  saturation: 0.6875
+  rhythmicContrast: 1
 purpose: []
