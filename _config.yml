@@ -1,9 +1,7 @@
-favicon: null
 name: jimmyvandewall2
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.4229391
+typography_spectrum: 0.25484
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.625
-  brandStrength: 0.0625
-  rhythmicContrast: 1
   brandColors:
     - '#030303'
     - '#848484'
     - '#5a5a5a'
     - '#c8c8c8'
     - '#fdfdfd'
-  lightness: 0.8125
-typography_spectrum: 0.28346
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.4229391
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
