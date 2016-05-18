@@ -5,19 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Photo Booth
-datePublished: '2016-05-16T14:18:06.070Z'
-dateModified: '2016-05-16T14:15:15.712Z'
+datePublished: '2016-05-18T12:25:20.703Z'
+dateModified: '2016-05-18T12:18:22.810Z'
 title: ''
 author:
   - name: Jimmy van de Wall
     url: ''
 sourcePath: _posts/2016-05-16-photo-booth-sounded-like-a-good-idea-at-the-time-odd-jobs-s.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: photo-booth-sounded-like-a-good-idea-at-the-time-odd-jobs-s/index.html
 _type: Article
