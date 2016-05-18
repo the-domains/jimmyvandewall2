@@ -4,20 +4,16 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-16T14:18:03.475Z'
-dateModified: '2016-05-16T14:14:41.302Z'
+description: Gratuitous food shots...
+datePublished: '2016-05-18T12:25:05.677Z'
+dateModified: '2016-05-18T12:05:59.310Z'
 title: ''
 author:
   - name: Jimmy van de Wall
     url: ''
 sourcePath: _posts/2016-05-16-more-food-the-food-shots-i-posted-to-flickr-got-me-invited.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: more-food-the-food-shots-i-posted-to-flickr-got-me-invited/index.html
 _type: Article
