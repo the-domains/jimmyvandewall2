@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Kids
-datePublished: '2016-05-18T12:25:29.315Z'
-dateModified: '2016-05-18T12:18:38.260Z'
+datePublished: '2016-05-18T13:04:05.963Z'
+dateModified: '2016-05-18T12:58:40.742Z'
 title: ''
 author:
   - name: Jimmy van de Wall
@@ -14,7 +14,7 @@ author:
 sourcePath: _posts/2016-05-16-babies-everybody-loves-babies-right-this-is-young-lars-c.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: babies-everybody-loves-babies-right-this-is-young-lars-c/index.html
 _type: Article
 
