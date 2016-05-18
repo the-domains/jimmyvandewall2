@@ -5,19 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Selfies
-datePublished: '2016-05-16T14:17:59.637Z'
-dateModified: '2016-05-16T14:14:07.251Z'
+datePublished: '2016-05-18T12:24:43.815Z'
+dateModified: '2016-05-18T12:17:56.730Z'
 title: ''
 author:
   - name: Jimmy van de Wall
     url: ''
 sourcePath: _posts/2016-05-16-selfies-are-always-fun-this-one-was-inspired-by-the-work-of.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: selfies-are-always-fun-this-one-was-inspired-by-the-work-of/index.html
 _type: Article
