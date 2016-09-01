@@ -4,7 +4,7 @@
         <description><![CDATA[Reluctant photography]]></description>
         <link>https://thegrid.ai/jimmyvandewall2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 11:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 12:12:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jimmyvandewall2/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/jimmyvandewall2/social-media/index.html</link>
             <guid isPermaLink="false">37af4cdb-0491-438b-88de-b1399baebb79</guid>
             <pubDate>Thu, 19 May 2016 11:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c336bd9d-a9be-428d-8953-57ba02f17479.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/jimmyvandewall2/e256133a-1d82-4304-bca2-3fff4360d12b/index.html</link>
+            <guid isPermaLink="false">e256133a-1d82-4304-bca2-3fff4360d12b</guid>
+            <pubDate>Tue, 30 Aug 2016 12:12:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/jimmyvandewall2/selfies-are-always-fun-this-one-was-inspired-by-the-work-of/index.html</link>
             <guid isPermaLink="false">77d2af56-b473-4981-ac6e-9e4cedf03e1e</guid>
             <pubDate>Thu, 19 May 2016 11:42:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c336bd9d-a9be-428d-8953-57ba02f17479.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/jimmyvandewall2/e256133a-1d82-4304-bca2-3fff4360d12b/index.html</link>
-            <guid isPermaLink="false">e256133a-1d82-4304-bca2-3fff4360d12b</guid>
-            <pubDate>Thu, 19 May 2016 11:41:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
