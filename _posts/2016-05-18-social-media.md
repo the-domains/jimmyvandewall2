@@ -5,15 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Social media
-datePublished: '2016-05-19T11:41:47.169Z'
-dateModified: '2016-05-19T11:41:39.136Z'
+datePublished: '2016-08-30T12:12:58.245Z'
+dateModified: '2016-08-30T12:11:22.699Z'
 title: ''
 author:
   - name: Jimmy van de Wall
     url: ''
 sourcePath: _posts/2016-05-18-social-media.md
 authors: []
-publisher: null
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
+via: {}
 starred: true
 url: social-media/index.html
 _type: Article
