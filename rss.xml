@@ -4,7 +4,7 @@
         <description><![CDATA[Reluctant photography]]></description>
         <link>https://thegrid.ai/jimmyvandewall2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 12:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 12:13:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jimmyvandewall2/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/jimmyvandewall2/social-media/index.html</link>
             <guid isPermaLink="false">37af4cdb-0491-438b-88de-b1399baebb79</guid>
             <pubDate>Tue, 30 Aug 2016 12:12:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a60a8d68-62cb-4b8e-8fc3-74f0b52dc83a.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/jimmyvandewall2/babies-everybody-loves-babies-right-this-is-young-lars-c/index.html</link>
+            <guid isPermaLink="false">9001c16a-ace5-42ab-9c5a-99d7b5866169</guid>
+            <pubDate>Tue, 30 Aug 2016 12:13:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/jimmyvandewall2/shooting-food-is-great-fun-for-me-and-frustrating-for-my-din/index.html</link>
             <guid isPermaLink="false">18f4f585-59fd-4450-8c14-5354b21b9fad</guid>
             <pubDate>Thu, 19 May 2016 11:44:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a60a8d68-62cb-4b8e-8fc3-74f0b52dc83a.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/jimmyvandewall2/babies-everybody-loves-babies-right-this-is-young-lars-c/index.html</link>
-            <guid isPermaLink="false">9001c16a-ace5-42ab-9c5a-99d7b5866169</guid>
-            <pubDate>Thu, 19 May 2016 11:43:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
